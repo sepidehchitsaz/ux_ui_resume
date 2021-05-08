@@ -49,8 +49,201 @@
     background-color:#DC4625;
 }
 
+.header {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.header h1{
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.header p {
+    font-family: lora;
+    font-size: 18px;
 
 
+}
+
+
+.header button {
+    color: #C9AA8B;
+    background-color: #122227 ;
+    font-family: oswald;
+    margin-top: 50px;
+
+}
+
+.header button:hover{
+    color: #DC4625 ;
+
+}
+
+a:hover {
+    color:#DC4625;
+
+}
+
+.summary{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.summary h1{
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.summary p{
+    font-family: lora;
+    font-size: 18px;
+
+}
+
+.skills{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.skills h1{
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.skills p{
+    font-family: lora;
+    font-size: 18px;
+
+}
+
+.projects {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+
+}
+
+.projects h1 {
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.projects .one h2 {
+    font-family: lora;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.projects .one p {
+    font-family: lora;
+    font-size: 18px;
+
+}
+
+.projects .two h2{
+    font-family: lora;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+
+.projects .two p {
+    font-family: lora;
+    font-size: 18px;
+
+}
+
+.projects .three h2{
+    font-family: lora;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+
+.projects .three p {
+    font-family: lora;
+    font-size: 18px;
+
+}
+
+.experience {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+
+}
+
+.experience h1{
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+    
+
+}
+
+.education {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.education h1{
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.education p{
+    font-family: lora;
+    font-size: 18px;
+}
+
+.certificate {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+
+}
+
+.certificate h1 {
+    font-family: lora;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+}
+
+.certificate p{
+    font-family: lora;
+    font-size: 18px;
+
+}
 
 
 
