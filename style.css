@@ -1,0 +1,171 @@
+.navbar-dark .navbar-brand{
+    color: #79C4CD;
+    font-size: 36px;
+    font-family: satisfy;
+    margin-left: 30px;
+    font-weight: 300;
+}
+
+.navbar-dark .navbar-brand:hover{
+    color:#79C4CD;
+}
+
+
+
+
+.navbar-dark .navbar-nav .nav-link{
+    font-family: oswald;
+    font-size: 24px;
+    color: #C9AA8B;
+    padding-right: 30px;
+    
+    
+    
+}
+
+.nav-item1{
+    margin-right: 50px;
+}
+
+
+.bg-dark{
+    background-color: #122227 !important;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color:#DC4625;
+}
+
+.dropdown-menu {
+    background-color: #122227 !important;
+}
+
+.dropdown-item{
+    color: #C9AA8B;
+    font-size: 20px;
+
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+    background-color:#DC4625;
+}
+
+
+
+
+
+
+
+.footer {
+    font-size: 18px;
+    font-family: oswald;
+    margin-top: 200px;
+    background-color: #122227;
+    height: 200px;
+    
+}
+
+@media screen and (max-width:600px) {
+    .footer {
+        margin-top: 700px;
+        
+    }
+}
+
+
+
+.email {
+    height: 60px;
+    width: 45px;
+    margin: 5px;
+    position: relative;
+    /* bottom: 107px; */
+    float: left;
+    margin-left: 50px;
+    bottom: -70px;
+
+}
+
+@media screen and (max-width:600px) {
+    .email{
+      margin-left: 150px;
+        
+    }
+}
+
+.facebook {
+    height: 45px;
+    margin: 5px;
+    position: relative;
+    /* bottom: 100px; */
+    float: left;
+    bottom: -78px;
+    
+}
+
+@media screen and (max-width:600px) {
+    .facebook{
+     
+        
+    }
+}
+
+.linkedin {
+    height: 45px;
+    margin: 5px;
+    position: relative;
+    /* bottom: 100px; */
+    float: left;
+    bottom: -78px;
+}
+
+@media screen and (max-width:600px) {
+    .linkedin {
+        
+
+    }
+}
+
+.copyright {
+    height: 20px;
+    margin-top: 100px;
+    padding-left: 1095px;
+
+
+    
+}
+
+@media screen and (max-width:600px) {
+    .copyright {
+        height: 25px;
+        padding-left: 250px;
+        margin-top: 3px;
+        
+        
+
+    }
+}
+
+
+
+h6 {
+    font-family: oswald;
+    font-size: 18px;
+    float: right;
+    margin-right: 50px;
+    font-weight: 100;
+    color: #C9AA8B; 
+    line-height: 4;
+    margin-top: 72px;
+    
+
+}
+
+@media screen and (max-width:600px) {
+    h6 {
+        font-size: 18px;
+        margin-top: 0px;
+        padding-top: 0px;
+        
+    
+    }
+}
