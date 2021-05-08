@@ -186,6 +186,21 @@ a:hover {
 
 }
 
+.projects .four h2{
+    font-family: lora;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 70px;
+
+}
+
+.projects .four p {
+    font-family: lora;
+    font-size: 18px;
+
+}
+
 .experience {
     margin-top: 50px;
     margin-left: 50px;
@@ -198,11 +213,30 @@ a:hover {
     font-family: lora;
     font-size: 24px;
     font-weight: bold;
-    margin-bottom: 30px;
-    
-    
+    margin-bottom: 30px; 
 
 }
+
+.experience  p {
+    font-family: lora;
+    font-size: 18px;
+
+
+}
+
+.experience .one{
+    margin-bottom: 50px;
+}
+
+.experience .two{
+    margin-bottom: 50px;
+}
+
+.experience .three {
+    margin-bottom: 50px;
+}
+
+
 
 .education {
     margin-top: 50px;
