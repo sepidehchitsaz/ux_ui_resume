@@ -150,7 +150,7 @@ a:hover {
 
 }
 
-.projects .one p {
+.projects .one ul {
     font-family: lora;
     font-size: 18px;
 
@@ -165,7 +165,7 @@ a:hover {
 
 }
 
-.projects .two p {
+.projects .two ul {
     font-family: lora;
     font-size: 18px;
 
@@ -180,7 +180,7 @@ a:hover {
 
 }
 
-.projects .three p {
+.projects .three ul {
     font-family: lora;
     font-size: 18px;
 
@@ -195,7 +195,7 @@ a:hover {
 
 }
 
-.projects .four p {
+.projects .four ul {
     font-family: lora;
     font-size: 18px;
 
@@ -217,11 +217,21 @@ a:hover {
 
 }
 
+.experience  h2 {
+    font-family: lora;
+    font-size: 18px;
+
+}
+
 .experience  p {
     font-family: lora;
     font-size: 18px;
-    
 
+}
+
+.experience ul{
+    font-family: lora;
+    font-size: 18px;
 
 }
 
@@ -237,6 +247,13 @@ a:hover {
     margin-bottom: 50px;
 }
 
+.experience .four {
+    margin-bottom: 50px;
+}
+
+.experience .five {
+    margin-bottom: 50px;
+}
 
 
 .education {
