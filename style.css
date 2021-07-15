@@ -59,6 +59,11 @@
     margin-left: 50px;
 }
 
+@media screen and (max-width:600px){
+    .header {
+        margin-top: 50px;
+    }
+}
 .header h1{
     font-family: lora;
     font-size: 24px;
@@ -94,6 +99,12 @@
 
 }
 
+@media screen and (max-width:600px){
+    .header button {
+        margin-top: 20px;
+    }
+}
+
 .header button:hover{
     color: #DC4625 ;
 
@@ -118,9 +129,12 @@ a:hover {
     margin-bottom: 30px;
 }
 
+
+
 @media screen and (max-width:600px){
     .summary h1{
         font-size: 18px;
+        
     }
 }
 .summary p{
@@ -152,6 +166,7 @@ a:hover {
 @media screen and (max-width:600px){
     .skills h1{
         font-size: 18px;
+        
     }
 }
 .skills p{
@@ -181,6 +196,12 @@ a:hover {
     margin-bottom: 30px;
 }
 
+@media screen and (max-width:600px){
+    .projects h1 {
+        font-size: 18px;
+    }
+}
+
 .projects .one h2 {
     font-family: lora;
     font-size: 18px;
@@ -189,9 +210,22 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .projects .one h2 {
+        font-size: 14px;
+    }
+}
+
 .projects .one ul {
     font-family: lora;
     font-size: 18px;
+
+}
+
+@media screen and (max-width:600px){
+    .projects .one ul{
+        font-size: 14px;
+    }
 
 }
 
@@ -204,10 +238,22 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .projects .two h2 {
+        font-size: 14px;
+    }
+}
+
 .projects .two ul {
     font-family: lora;
     font-size: 18px;
 
+}
+
+@media screen and (max-width:600px){
+    .projects .two ul{
+        font-size: 14px;
+    }
 }
 
 .projects .three h2{
@@ -219,10 +265,21 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .projects .three h2 {
+        font-size: 14px;
+    }
+}
+
 .projects .three ul {
     font-family: lora;
     font-size: 18px;
 
+}
+@media screen and (max-width:600px){
+    .projects .three ul {
+        font-size: 14px;
+    }
 }
 
 .projects .four h2{
@@ -234,10 +291,21 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .projects .four h2{
+        font-size: 14px;
+    }
+}
 .projects .four ul {
     font-family: lora;
     font-size: 18px;
 
+}
+
+@media screen and (max-width:600px){
+    .projects .four ul{
+        font-size: 14px;
+    }
 }
 
 .experience {
@@ -256,10 +324,22 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .experience h1{
+        font-size: 18px;
+    }
+}
+
 .experience  h2 {
     font-family: lora;
     font-size: 18px;
 
+}
+
+@media screen and (max-width:600px){
+    .experience h2{
+        font-size: 14px;
+    }
 }
 
 .experience  p {
@@ -268,12 +348,23 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .experience p{
+        font-size: 14px;
+    }
+}
+
 .experience ul{
     font-family: lora;
     font-size: 18px;
 
 }
 
+@media screen and (max-width:600px){
+    .experience ul {
+        font-size: 14px;
+    }
+}
 .experience .one{
     margin-bottom: 50px;
 }
@@ -309,9 +400,21 @@ a:hover {
     margin-bottom: 30px;
 }
 
+@media screen and (max-width:600px){
+    .education h1 {
+        font-size: 18px;
+    }
+}
+
 .education p{
     font-family: lora;
     font-size: 18px;
+}
+
+@media screen and (max-width:600px){
+    .education p{
+        font-size: 14px;
+    }
 }
 
 .certificate {
@@ -330,12 +433,23 @@ a:hover {
 
 }
 
+@media screen and (max-width:600px){
+    .certificate h1 {
+        font-size: 18px;
+    }
+}
+
 .certificate p{
     font-family: lora;
     font-size: 18px;
 
 }
 
+@media screen and (max-width:600px){
+    .certificate p{
+        font-size: 14px;
+    }
+}
 
 
 
